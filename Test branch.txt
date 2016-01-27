@@ -1,3 +1,0 @@
-I am a ham but some people call me sam.
-This is our first commit.
-Changes again.
